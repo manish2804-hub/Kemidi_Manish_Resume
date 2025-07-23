@@ -29,6 +29,8 @@ add_text_block("📞 7036969854 | ✉️ kemidimanish04@gmail.com")
 add_text_block("🌐 LinkedIn: https://www.linkedin.com/in/kemidimanish04")
 add_text_block("💻 GitHub: https://github.com/manish2804-hub")
 add_text_block("🏠 Address: Boduppal, Hyderabad")
+GitHub: https://github.com/manish2804-hub
+
 
 # Introduction
 add_sub_heading("Hi! I'm Kemidi Manish")
