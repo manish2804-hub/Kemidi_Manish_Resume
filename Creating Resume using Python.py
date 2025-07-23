@@ -2,7 +2,7 @@ from docx import Document
 from docx.shared import Pt
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 
-# Create a new document
+# Create new document
 doc = Document()
 
 def add_main_heading(text):
